@@ -1,0 +1,18 @@
+.vega-actions a {
+  margin-right: 12px;
+  color: #757575;
+  font-weight: normal;
+  font-size: 13px;
+}
+.error {
+  color: red;
+}
+.fullwidth {
+  display: flex;
+  justify-content: center;
+}
+
+td {
+  border-bottom-width: 0 !important;
+  font-size: 0.6rem !important;
+}
