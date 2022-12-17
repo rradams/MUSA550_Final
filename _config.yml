@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Home Values and Highway Infrastructure in Raleigh, NC"
+title: "Rebekah Adams"
 email:
 description: "Final Project for MUSA 550: Geospatial Data Science in Python"
 twitter_username:
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Rebekah Adams"
+  name: "Home Values and Highway Infrastructure in Raleigh, NC"
   avatar:
   bio: "Masters in Urban Spatial Analytics Candidate, University of Pennsylvania"
   links:
