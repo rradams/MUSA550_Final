@@ -1,4 +1,17 @@
+---
+title: "Prediction Results and Limitations"
+date: 2022-12-16
 
+tags: 
+excerpt: "Val, click here."
+published: true
+altair-loader:
+  #altair-chart-1: "assets/charts/kmeans_plot.json"
+hv-loader:
+  #hv-chart-1: ["assets/charts/importances_table.html", "500"]
+toc: false
+toc_sticky: false
+---
 
 # Results
 My model, trained and tested on more than 76,000 home sales in highway towns, predicted that my in-laws' home value will **increase by 35.1%**. Congrats, Ken and Val!
