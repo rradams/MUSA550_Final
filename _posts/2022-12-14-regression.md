@@ -49,5 +49,5 @@ The table below shows the importances of my included features to the model's pre
 <div id="hv-chart-1"></div>
 Liveable square footage was by far the strongest predictor of a home's value. This feature explained 64.4% of the variance in house prices for homes in highway towns. At first, I thought this might be because of higher housing density: if homes are smaller, then square footage would be more valuable. However, the average home size in these towns is almost 2500 sqft -- quite large. It seems that square footage is so valuable in these towns because there is something about these towns that people want. 
 
-Far behind in second place came the sale year, at 19%. Since real estate saw a boom in sales in 2020 and 2021, this is not surprising. In a distant third place came acreage, at 3%. Distance to the highway was only the fifth most important feature, at 2.1%. Therefore, distance to the highway may not actually be as important to a home's value, as much as the general trend of real estate in the area.
+In second place came the sale year, at 19%. Since real estate saw a boom in sales in 2020 and 2021, this is not surprising. Distance to the highway was only the fifth most important feature, at 2.1%. Therefore, a home's value is based more on the general trend of real estate in the area than on the distance to the highway.
 
