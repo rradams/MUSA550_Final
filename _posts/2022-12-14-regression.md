@@ -40,7 +40,7 @@ I cross-validated my model and found that my model had a mean R-squared of 0.885
 
 The map below shows the mean absolute percent error (MAPE) for each home, for a random sample of 5000 homes in the test set. The majority of predictions see a less than 10% MAPE, while a few outliers see much higher errors.
 
-![mape-map]({{ site.url }}/assets/charts/mape_map.png)
+![mape-map]({{ site.url }}{{ site.baseurl }}/assets/charts/mape_map.png)
 
 For a relatively simple set of features, I thought these metrics were unusually high; so I ran a simple linear regression to confirm if these features really did as good of a job predicting home prices. They did: my linear model had an R-squared of 81%, indicating that the more complex Random Forest Regression model's score of 88.5% is reasonable.
 
