@@ -7,14 +7,14 @@ excerpt: "Use a Random Forest Regression to predict my in-laws' new home value, 
 published: true
 altair-loader:
 hv-loader:
-  hv-chart-1: ["assets/charts/importances_table.html", "500"]
+  hv-chart-1: ["assets/charts/importances_table.html", "200"]
 toc: false
 toc_sticky: false
 ---
 
 Our K-means analysis shows that, on average, otherwise similar homes are worth about 18% more in highway towns than in non-highway towns.
 
-But what does this mean for my in-laws, specifically? To answe this, I predicted their new home value using a random forest regression.
+But what does this mean for my in-laws, specifically? To answer this, I predicted their new home value using a random forest regression.
 
 My model was trained and tested on 76,000 home sales in highway towns, based on the homes':
 
