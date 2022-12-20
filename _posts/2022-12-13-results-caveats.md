@@ -13,7 +13,7 @@ toc: false
 toc_sticky: false
 ---
 
-My model, trained and tested on more than 76,000 home sales in highway towns, predicted that my in-laws' home value will **increase by 35.1%**. Congrats, Ken and Val!
+My model, trained and tested on more than 76,000 home sales in highway towns, predicted that my in-laws' home value will **increase by 35%**. Congrats, Ken and Val!
 
 ## Limitations
 Before you get too excited - I should mention the limits of this estimation. 
