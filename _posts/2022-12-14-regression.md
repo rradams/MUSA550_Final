@@ -6,7 +6,6 @@ tags:
 excerpt: "Use a Random Forest Regression to predict my in-laws' new home value, based on proximity to the highway and sales data from highway towns."
 published: true
 altair-loader:
-  #altair-chart-1: "assets/charts/kmeans_plot.json"
 hv-loader:
   hv-chart-1: ["assets/charts/importances_table.html", "500"]
 toc: false
