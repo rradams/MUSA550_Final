@@ -36,7 +36,7 @@ I included the distance to the Raleigh city center as a way for the model to dif
 Finally, I included the distance to the RDU airport as a way to try and account for the spatial fixed effects of the highway towns. Since I couldn't include the towns themselves in my model (because then it would be impossible to predict for my in-laws' home, which isn't in one of these towns), I used distance from the airport as a continuous variable to try and approximate this effect instead. The highway towns are all closer to the RDU airport than the non-highway towns; perhaps there is something about proximity to the airport or another nearby spatial feature that explains the higher home values in this area.
 
 # Error Metrics
-I cross-validated my model and found that my model had a mean R-squared of 0.885, meaning that my model accounts for 88.5% of the variation in home prices within highway towns. My model had a mean absoluate error (MAE) of $28,704, meaning that on average, its prediction was off by almost $29,000. Its accuracy was 84%, meaning that it accurately predicts highway towns' home prices 84% of the time.
+After crossvalidation, my model had a mean R-squared of 0.885, meaning that my model accounts for 88.5% of the variation in home prices within highway towns. My model had a mean absoluate error (MAE) of $28,704, meaning that on average, its prediction was off by almost $29,000. Its accuracy was 84%, meaning that it accurately predicts highway towns' home prices 84% of the time.
 
 The map below shows the mean absolute percent error (MAPE) for each home, for a random sample of 5000 homes in the test set. The majority of predictions see a less than 10% MAPE, while a few outliers see much higher errors.
 
