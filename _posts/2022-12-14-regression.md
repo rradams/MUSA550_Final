@@ -3,7 +3,7 @@ title: "Predicting Home Prices"
 date: 2022-12-16
 
 tags: 
-excerpt: "Use a Random Forest Regression to predict my in-laws' new home value, based on proximity to the highway and sales data from highway towns."
+excerpt: "Build a random forest regression model to predict my in-laws' new home value, based on proximity to the highway and sales data from highway towns."
 published: true
 altair-loader:
 hv-loader:
