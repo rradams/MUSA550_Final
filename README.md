@@ -4,4 +4,6 @@ My project seeks to answer: **how might the NC-540 highway impact home values wh
 
 This project is also personally motivated: my partner’s parents live in Wake County and NC-540 will open in their town next year. Occassionally they wonder aloud how the new highway will affect their home’s value. My analysis will try to answer their question.
 
-Visit my [project's site](https://rradams.github.io/MUSA550_Final/) to learn about my process and see the results.
+**Visit my [project's site](https://rradams.github.io/MUSA550_Final/) to learn about my process and see the results.**
+
+This project was created for the MUSA 550 final project at the University of Pennsylvania.
