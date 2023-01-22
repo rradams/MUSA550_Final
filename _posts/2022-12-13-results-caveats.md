@@ -3,7 +3,7 @@ title: "Prediction Results and Limitations"
 date: 2022-12-16
 
 tags: 
-excerpt: "Val, click here."
+excerpt: "Predicting my in-laws' home value."
 published: true
 altair-loader:
   #altair-chart-1: "assets/charts/kmeans_plot.json"
@@ -13,10 +13,10 @@ toc: false
 toc_sticky: false
 ---
 
-My model, trained and tested on more than 76,000 home sales in highway towns, predicted that my in-laws' home value will **increase by 35%**. Congrats, Ken and Val!
+My model, trained and tested on more than 76,000 home sales in highway towns, predicted that my in-laws' home value will **increase by 35%**. Congrats!
 
 ## Limitations
-Before you get too excited - I should mention the limits of this estimation. 
+In-laws: before you get too excited - I should mention the limits of this estimation. 
 
 First, as you know, **I am not a real estate expert of any kind**, so don't take this figure as expert advice. It's just an estimate.
 
